@@ -1,0 +1,23 @@
+{
+    "update_id": 19529736,
+    "message": {
+        "message_id": 6,
+        "from": {
+            "id": 45575243,
+            "is_bot": false,
+            "first_name": "성준",
+            "last_name": "박",
+            "username": "talksis",
+            "language_code": "ko"
+        },
+        "chat": {
+            "id": 45575243,
+            "first_name": "성준",
+            "last_name": "박",
+            "username": "talksis",
+            "type": "private"
+        },
+        "date": 1658647306,
+        "text": "하하"
+    }
+}
